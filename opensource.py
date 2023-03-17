@@ -15,4 +15,4 @@ print('오픈소스 3주차')
 print('pull-Request 연습')
 print('2 - 3 user2 수정')
 print('2 - 3 ___user1___ 수정')
-
+'''user2가 pull request 하기 전 18라인 수정'''
