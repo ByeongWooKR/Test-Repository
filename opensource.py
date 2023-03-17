@@ -13,4 +13,6 @@ ______ 사용자 2가 pull request 하기 전에 사용자 1 코드 변경______
 """
 print('오픈소스 3주차')
 print('pull-Request 연습')
+print('2 - 3 user2 수정')
 print('2 - 3 ___user1___ 수정')
+
